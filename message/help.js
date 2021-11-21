@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*INI WM AQULZZ*
+    return `*INI WM Kanz*
 `
 }
 
