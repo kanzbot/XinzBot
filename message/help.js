@@ -8,6 +8,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ╒═══ 《 *${botName}* 》 ═══
 ├────────────────────
 ├≽ *Creator : ${ownerName}*
+├≽ *Follow Ig : https://instagram.com/im.kanzjb
 ├≽ *Edit : By Kanz*
 ├≽ *Lib : Baileys V.3.5.1*
 ├≽ *Prefix : 「 ${prefix} 」*
